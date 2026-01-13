@@ -1,4 +1,6 @@
-<h2><u>Bridging the Digital Divide in Education Through Cloud-Based Learning and WAN Connectivity </u></h2>
+<h2><u>Bridging the Digital Divide in Education Through Cloud-Based Learning and WAN Connectivity </u><
+WATCH THE SIMUALATION VIDEO ON YOUTUBE:
+ https://youtube.com/watch?v=gMrsVfsE-w8&si=1S2ljIDKRs2utEsO                                                                            
 <p>In today’s rapidly evolving digital world, access to information and 
 technology has become a cornerstone of development. As the CEO of a networking 
 company, I recognize the transformative power of cloud services and Wide Area 
