@@ -1,3 +1,4 @@
+Check out my [simulation video on youtube](https://youtu.be/gMrsVfsE-w8?si=kPqdg7MnO7G9UuWv) 
 <h2><u>Bridging the Digital Divide in Education Through Cloud-Based Learning and WAN Connectivity </u                                                                            
 <p>In today’s rapidly evolving digital world, access to information and 
 technology has become a cornerstone of development. As the CEO of a networking 
